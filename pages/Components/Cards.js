@@ -64,7 +64,7 @@ const ProductCard = ({
 
       {/* Bottom Section with Product Info */}
       <div className="bg-light-rgb p-4 flex-1 rounded-[0px_0px_30px_0px]">
-        <h2 className="text-[#365758] font-semibold bg-[#c4e7ec] text-center rounded w-full text-[16px]">
+        <h2 className="text-[#365758] font-semibold bg-light-rgb text-center rounded w-[74px] text-[16px] px-[10px] py-[2px]">
           {productName}
         </h2>
 
